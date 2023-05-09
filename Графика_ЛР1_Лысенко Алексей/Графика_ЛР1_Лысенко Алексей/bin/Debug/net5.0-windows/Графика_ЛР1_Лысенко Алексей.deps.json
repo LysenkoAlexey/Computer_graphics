@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Графика_ЛР1_Лысенко Алексей/1.0.0": {
+        "runtime": {
+          "Графика_ЛР1_Лысенко Алексей.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Графика_ЛР1_Лысенко Алексей/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
